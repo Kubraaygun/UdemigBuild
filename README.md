@@ -1,6 +1,6 @@
 <h1>Udemig Build </h1>
 
-Bu proje, Udemig Build şirketinin web sitesinin kaynak kodlarıdır. Şirketin hizmetlerini, projelerini ve iletişim bilgilerini içeren bir web sitesidir.
+Bu proje sirketin hizmetlerini, projelerini ve iletişim bilgilerini içeren bir web sitesidir.
 
 <h2>Bolumler</h2>
 

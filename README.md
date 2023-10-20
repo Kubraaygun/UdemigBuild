@@ -3,14 +3,14 @@
 Bu proje, Udemig Build şirketinin web sitesinin kaynak kodlarıdır. Şirketin hizmetlerini, projelerini ve iletişim bilgilerini içeren bir web sitesidir.
 
 <h2>Bolumler</h2>
+
 <ul> 
 <li>Home</li>
 <li>About</li>
 <li>Services</li>
 <li>Portfolio</li>
 <li>Contact</li>
-
-<ul>
+</ul>
 
 <h2>Kullanilan Teknolojiler </h2>
 
@@ -18,7 +18,7 @@ Bu proje, Udemig Build şirketinin web sitesinin kaynak kodlarıdır. Şirketin 
 <li>HTML</li>
 <li>CSS</li>
 <li>Bootstrap</li>
-<ul>
+</ul>
 
 
 
